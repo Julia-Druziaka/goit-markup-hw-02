@@ -81,7 +81,7 @@ a {
 }
 
 .button {
-  background: #4d5ae5;
+  background: #404bbf;
 }
 
 .button:hover,
@@ -108,7 +108,7 @@ a {
 }
 
 .team-section {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .team {
@@ -126,7 +126,7 @@ a {
 }
 
 .content {
-  background: url("part_to_image");
+  background: #ffffff;
 }
 
 .contenty {
@@ -147,4 +147,49 @@ a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #434455;
+}
+
+.our {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.conty {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.taxty {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
+.tixt {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }

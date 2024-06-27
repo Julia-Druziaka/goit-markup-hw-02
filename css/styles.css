@@ -81,7 +81,7 @@ a {
 }
 
 .button {
-  background: #404bbf;
+  background-color: #4d5ae5;
 }
 
 .button:hover,
@@ -149,7 +149,7 @@ a {
   color: #434455;
 }
 
-.our {
+.oury {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -157,6 +157,14 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+.oury {
+  background-color: #ffffff;
+}
+
+.oury {
+  text-transform: capitalize;
 }
 
 .conty {

@@ -77,13 +77,16 @@ a {
 }
 
 .button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+}
+
+.button {
   background: #4d5ae5;
 }
 
 .button:hover,
 .button:focus {
-  color: #000;
+  color: #404bbf;
 }
 
 .title {
@@ -105,7 +108,7 @@ a {
 }
 
 .team-section {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .team {
@@ -116,6 +119,10 @@ a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+.team {
+  text-align: center;
 }
 
 .content {

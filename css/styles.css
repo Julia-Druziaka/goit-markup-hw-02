@@ -17,7 +17,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17%;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -47,7 +47,8 @@ a {
 }
 
 .nav-link:hover,
-.nav-link:focus .contacts-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
 }
@@ -66,9 +67,9 @@ a {
   color: #fff;
 }
 
-.button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
+.button:hover,
+.button:focus {
+  color: #000;
 }
 
 .title {
@@ -104,7 +105,7 @@ a {
 }
 
 .content {
-  background: url("path_to_image");
+  background: url("part_to_image");
 }
 
 .contenty {

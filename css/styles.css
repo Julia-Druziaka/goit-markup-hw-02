@@ -125,6 +125,10 @@ a {
   text-align: center;
 }
 
+.team-li {
+  background-color: #ffffff;
+}
+
 .content {
   background: #ffffff;
 }

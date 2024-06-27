@@ -67,6 +67,20 @@ a {
   color: #fff;
 }
 
+.button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+
+.button {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+}
+
 .button:hover,
 .button:focus {
   color: #000;
@@ -100,7 +114,7 @@ a {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -114,7 +128,7 @@ a {
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -124,6 +138,6 @@ a {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-transform: capitalize;
   color: #434455;
 }
